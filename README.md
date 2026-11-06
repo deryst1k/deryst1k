@@ -37,7 +37,7 @@
 <table border="0">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Deryst1k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180" alt="GitHub Stats" />
+      <img height="170" src="https://github-stats-extended.vercel.app/api?username=Deryst1k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
     </td>
     <td align="center" width="50%">
       <img src="https://streak-stats.demolab.com/?user=Deryst1k&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
