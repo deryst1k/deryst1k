@@ -2,7 +2,7 @@
 
 # Привет, я Deryst1k 👋
 
-### Backend Developer · Санкт-Петербург, Россия 🇷🇺
+### Backend Developer · Россия 🇷🇺
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Backend+Developer;Node.js+%2B+TypeScript;Python+%2B+Go;Always+learning+something+new)](https://git.io/typing-svg)
 
