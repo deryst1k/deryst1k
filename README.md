@@ -34,14 +34,19 @@
 
 <div align="center">
 
-<img height="170" src="https://github-stats-extended.vercel.app/api?username=Deryst1k&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Deryst1k&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<table border="0">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Deryst1k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://streak-stats.demolab.com/?user=Deryst1k&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Deryst1k&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-<br/>
 </div>
 
 
