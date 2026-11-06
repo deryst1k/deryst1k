@@ -43,7 +43,7 @@
 
 <br/>
 
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Deryst1k&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=Deryst1k&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
 
 </div>
 
