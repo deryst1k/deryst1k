@@ -55,7 +55,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deryst1k&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=Deryst1k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
 
 </div>
 
