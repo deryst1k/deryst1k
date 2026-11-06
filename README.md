@@ -42,9 +42,6 @@
 <img src="https://streak-stats.demolab.com/?user=Deryst1k&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 <br/>
-
-<img src="https://github-profile-trophy-fork-two.vercel.app/?username=Deryst1k&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
-
 </div>
 
 
